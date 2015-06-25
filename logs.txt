@@ -1,0 +1,29 @@
+commit 0dcd63c6da647d6743260c2d4538d5c41de6d234
+Author: noelgarciainzunza <noel_garcia.15@hotmail.com>
+Date:   Wed Jun 24 14:20:53 2015 -0600
+
+    AGREGAMOS IMAGEN
+
+commit d8f4d1424552f0abf972d284dd87000ddc965744
+Author: noelgarciainzunza <noel_garcia.15@hotmail.com>
+Date:   Wed Jun 24 14:16:49 2015 -0600
+
+    cambio de fondo de color2
+
+commit cf0919bb17a251d2513e4a4a0d626d9525a5d57d
+Author: noelgarciainzunza <noel_garcia.15@hotmail.com>
+Date:   Wed Jun 24 14:15:31 2015 -0600
+
+    cambio de fondo de color
+
+commit 082472fb1745c56c164b257861bbbaf6999aa871
+Author: noelgarciainzunza <noel_garcia.15@hotmail.com>
+Date:   Wed Jun 24 14:05:44 2015 -0600
+
+    agrega formulario
+
+commit b7ab956c4196a4dc60faa913033cf5c6d00c601b
+Author: noelgarciainzunza <noel_garcia.15@hotmail.com>
+Date:   Wed Jun 24 13:43:18 2015 -0600
+
+    primera subida
